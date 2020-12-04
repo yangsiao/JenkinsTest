@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="992e8e88-0c8b-4586-9cc0-f5ec42bb9a0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/doc/mysql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/oracle.sql" beforeDir="false" afterPath="$PROJECT_DIR$/doc/oracle.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/sqlServer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/doc/sqlServer.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/部署文档" beforeDir="false" afterPath="$PROJECT_DIR$/doc/部署文档" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/CompanyProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/CompanyProjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/annotation/DataScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/annotation/DataScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/annotation/LogAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/annotation/LogAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/aop/aspect/SysLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/FileUploadProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/FileUploadProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/MetaObjectHandlerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/MetaObjectHandlerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/MyBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/SwaggerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/WebMvcConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/config/WebMvcConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/code/BaseResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/code/BaseResponseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/code/ResponseCodeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/code/ResponseCodeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/handler/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/exception/handler/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomAccessControlFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomAccessControlFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomHashedCredentialsMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomHashedCredentialsMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/CustomRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/shiro/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/DataResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/DataResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/HttpContextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/HttpContextUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/IPUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/IPUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/PasswordEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/PasswordEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/PasswordUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/PasswordUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/SnowflakeIdWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/SpringContextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/common/utils/SpringContextUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/KaptchaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/PermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/RoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/RolePermissionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/SysLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/controller/sys/UserRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysRoleDeptEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysRolePermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/entity/sys/SysUserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysPermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysRoleDeptMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysRolePermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/mapper/sys/SysUserRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/HomeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/PermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/RolePermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/SysRoleDeptService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/UserRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/HomeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/HttpSessionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/PermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/RedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/RolePermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/SysRoleDeptServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/UserRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/sys/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/req/RolePermissionOperationReqVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/req/RolePermissionOperationReqVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/req/UserRoleOperationReqVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/req/UserRoleOperationReqVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/HomeRespVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/HomeRespVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/LoginRespVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/LoginRespVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/PermissionRespNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/PermissionRespNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/UserInfoRespVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/UserInfoRespVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/UserOwnRoleRespVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/vo/resp/UserOwnRoleRespVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/generator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generator.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/project/CompanyFrameApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/project/CompanyFrameApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IDEA\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lAlGl1W84vRjPpwt9iGoWH9IQr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CompanyProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.project.CompanyProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992e8e88-0c8b-4586-9cc0-f5ec42bb9a0f" name="Default Changelist" comment="" />
+      <created>1607047684142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607047684142</updated>
+      <workItem from="1607047688525" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
